@@ -1,0 +1,1 @@
+/home/usuario/Desarrollo/Proyectos/BTShutter/bt_shutter.py
